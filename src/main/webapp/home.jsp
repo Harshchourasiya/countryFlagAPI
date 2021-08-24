@@ -52,10 +52,10 @@
     <nav class="navbar navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a class="navbar-brand" href="https://www.countryflagapi.herokuapp.com">Country Flag</a>
+                <a class="navbar-brand" href="https://countryflagapi.herokuapp.com/">Country Flag</a>
             </div>
             <ul class="nav navbar-nav">
-                <li class="btn active"><a href="https://www.countryflagapi.herokuapp.com">Home</a></li>
+                <li class="btn active"><a href="https://countryflagapi.herokuapp.com/">Home</a></li>
                 <li class="btn"><a href="https://github.com/Harshchourasiya/countryflagapi">Github</a></li>
                 <li class="btn"><a href="https://github.com/Harshchourasiya/countryflagapi/issues">Issue</a></li>
             </ul>
@@ -85,7 +85,7 @@
                 </h4>
                 </br>
                 <code class="api">
-                    https://www.countryflagapi.herokuapp.com/all
+                    https://countryflagapi.herokuapp.com/all
                           </code>
             </div>
             <hr>
@@ -95,7 +95,7 @@
                 </h4>
                 </br>
                 <code class="api">
-                    https://www.countryflagapi.herokuapp.com/country/india
+                    https://countryflagapi.herokuapp.com/country/india
                         </code>
                 </br>
                 </br>
@@ -116,7 +116,7 @@
                 </h4>
                 </br>
                 <code class="api">
-                    https://www.countryflagapi.herokuapp.com/code/IN
+                    https://countryflagapi.herokuapp.com/code/IN
                         </code>
                 </br>
                 </br>
@@ -137,7 +137,7 @@
                 </h4>
                 </br>
                 <code class="api">
-                    https://www.countryflagapi.herokuapp.com/search/in
+                    https://countryflagapi.herokuapp.com/search/in
                         </code>
                 </br>
                 </br>
