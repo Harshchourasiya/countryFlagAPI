@@ -19,11 +19,15 @@ public class HomeController {
     @Autowired
     CountryRepo repo; 
 
+    // For Home
     @RequestMapping("/")
     public String home(){
         return "home.jsp";
     }
 
+    // Here are For API
+
+    // for All Countries details
     @RequestMapping("/all")
     @ResponseBody
     public List<Country> all(){
@@ -31,6 +35,7 @@ public class HomeController {
         return countries;
     }
 
+    // To get detail by country name
     @RequestMapping("/country/{name}")
     @ResponseBody
     public List<Country> country(@PathVariable String name){
@@ -38,6 +43,7 @@ public class HomeController {
         return countries;
     }
 
+    // to get detail by country code
     @RequestMapping("/code/{code}")
     @ResponseBody
     public List<Country> code(@PathVariable String code){
@@ -45,6 +51,7 @@ public class HomeController {
         return countries;
     }
 
+    // to search by country name
     @RequestMapping("/search/{name}")
     @ResponseBody
     public List<Country> search(@PathVariable String name){
