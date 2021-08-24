@@ -1,250 +1,260 @@
-insert into COUNTRY values ('afghanistan', 'Kabul', 'AF', 'https://restcountries.eu/data/afg.svg', 'Asia')
-insert into COUNTRY values ('åland islands', 'Mariehamn', 'AX', 'https://restcountries.eu/data/ala.svg', 'Europe')
-insert into COUNTRY values ('albania', 'Tirana', 'AL', 'https://restcountries.eu/data/alb.svg', 'Europe')
-insert into COUNTRY values ('algeria', 'Algiers', 'DZ', 'https://restcountries.eu/data/dza.svg', 'Africa')
-insert into COUNTRY values ('american samoa', 'Pago Pago', 'AS', 'https://restcountries.eu/data/asm.svg', 'Oceania')
-insert into COUNTRY values ('andorra', 'Andorra la Vella', 'AD', 'https://restcountries.eu/data/and.svg', 'Europe')
-insert into COUNTRY values ('angola', 'Luanda', 'AO', 'https://restcountries.eu/data/ago.svg', 'Africa')
-insert into COUNTRY values ('anguilla', 'The Valley', 'AI', 'https://restcountries.eu/data/aia.svg', 'Americas')
-insert into COUNTRY values ('antarctica', '', 'AQ', 'https://restcountries.eu/data/ata.svg', 'Polar')
-insert into COUNTRY values ('antigua and barbuda', 'Saint Johns', 'AG', 'https://restcountries.eu/data/atg.svg', 'Americas')
-insert into COUNTRY values ('argentina', 'Buenos Aires', 'AR', 'https://restcountries.eu/data/arg.svg', 'Americas')
-insert into COUNTRY values ('armenia', 'Yerevan', 'AM', 'https://restcountries.eu/data/arm.svg', 'Asia')
-insert into COUNTRY values ('aruba', 'Oranjestad', 'AW', 'https://restcountries.eu/data/abw.svg', 'Americas')
-insert into COUNTRY values ('australia', 'Canberra', 'AU', 'https://restcountries.eu/data/aus.svg', 'Oceania')
-insert into COUNTRY values ('austria', 'Vienna', 'AT', 'https://restcountries.eu/data/aut.svg', 'Europe')
-insert into COUNTRY values ('azerbaijan', 'Baku', 'AZ', 'https://restcountries.eu/data/aze.svg', 'Asia')
-insert into COUNTRY values ('bahamas', 'Nassau', 'BS', 'https://restcountries.eu/data/bhs.svg', 'Americas')
-insert into COUNTRY values ('bahrain', 'Manama', 'BH', 'https://restcountries.eu/data/bhr.svg', 'Asia')
-insert into COUNTRY values ('bangladesh', 'Dhaka', 'BD', 'https://restcountries.eu/data/bgd.svg', 'Asia')
-insert into COUNTRY values ('barbados', 'Bridgetown', 'BB', 'https://restcountries.eu/data/brb.svg', 'Americas')
-insert into COUNTRY values ('belarus', 'Minsk', 'BY', 'https://restcountries.eu/data/blr.svg', 'Europe')
-insert into COUNTRY values ('belgium', 'Brussels', 'BE', 'https://restcountries.eu/data/bel.svg', 'Europe')
-insert into COUNTRY values ('belize', 'Belmopan', 'BZ', 'https://restcountries.eu/data/blz.svg', 'Americas')
-insert into COUNTRY values ('benin', 'Porto-Novo', 'BJ', 'https://restcountries.eu/data/ben.svg', 'Africa')
-insert into COUNTRY values ('bermuda', 'Hamilton', 'BM', 'https://restcountries.eu/data/bmu.svg', 'Americas')
-insert into COUNTRY values ('bhutan', 'Thimphu', 'BT', 'https://restcountries.eu/data/btn.svg', 'Asia')
-insert into COUNTRY values ('bolivia (plurinational state of)', 'Sucre', 'BO', 'https://restcountries.eu/data/bol.svg', 'Americas')
-insert into COUNTRY values ('bonaire, sint eustatius and saba', 'Kralendijk', 'BQ', 'https://restcountries.eu/data/bes.svg', 'Americas')
-insert into COUNTRY values ('bosnia and herzegovina', 'Sarajevo', 'BA', 'https://restcountries.eu/data/bih.svg', 'Europe')
-insert into COUNTRY values ('botswana', 'Gaborone', 'BW', 'https://restcountries.eu/data/bwa.svg', 'Africa')
-insert into COUNTRY values ('bouvet island', '', 'BV', 'https://restcountries.eu/data/bvt.svg', '')
-insert into COUNTRY values ('brazil', 'Brasília', 'BR', 'https://restcountries.eu/data/bra.svg', 'Americas')
-insert into COUNTRY values ('british indian ocean territory', 'Diego Garcia', 'IO', 'https://restcountries.eu/data/iot.svg', 'Africa')
-insert into COUNTRY values ('united states minor outlying islands', '', 'UM', 'https://restcountries.eu/data/umi.svg', 'Americas')
-insert into COUNTRY values ('virgin islands (british)', 'Road Town', 'VG', 'https://restcountries.eu/data/vgb.svg', 'Americas')
-insert into COUNTRY values ('virgin islands (u.s.)', 'Charlotte Amalie', 'VI', 'https://restcountries.eu/data/vir.svg', 'Americas')
-insert into COUNTRY values ('brunei darussalam', 'Bandar Seri Begawan', 'BN', 'https://restcountries.eu/data/brn.svg', 'Asia')
-insert into COUNTRY values ('bulgaria', 'Sofia', 'BG', 'https://restcountries.eu/data/bgr.svg', 'Europe')
-insert into COUNTRY values ('burkina faso', 'Ouagadougou', 'BF', 'https://restcountries.eu/data/bfa.svg', 'Africa')
-insert into COUNTRY values ('burundi', 'Bujumbura', 'BI', 'https://restcountries.eu/data/bdi.svg', 'Africa')
-insert into COUNTRY values ('cambodia', 'Phnom Penh', 'KH', 'https://restcountries.eu/data/khm.svg', 'Asia')
-insert into COUNTRY values ('cameroon', 'Yaoundé', 'CM', 'https://restcountries.eu/data/cmr.svg', 'Africa')
-insert into COUNTRY values ('canada', 'Ottawa', 'CA', 'https://restcountries.eu/data/can.svg', 'Americas')
-insert into COUNTRY values ('cabo verde', 'Praia', 'CV', 'https://restcountries.eu/data/cpv.svg', 'Africa')
-insert into COUNTRY values ('cayman islands', 'George Town', 'KY', 'https://restcountries.eu/data/cym.svg', 'Americas')
-insert into COUNTRY values ('central african republic', 'Bangui', 'CF', 'https://restcountries.eu/data/caf.svg', 'Africa')
-insert into COUNTRY values ('chad', 'NDjamena', 'TD', 'https://restcountries.eu/data/tcd.svg', 'Africa')
-insert into COUNTRY values ('chile', 'Santiago', 'CL', 'https://restcountries.eu/data/chl.svg', 'Americas')
-insert into COUNTRY values ('china', 'Beijing', 'CN', 'https://restcountries.eu/data/chn.svg', 'Asia')
-insert into COUNTRY values ('christmas island', 'Flying Fish Cove', 'CX', 'https://restcountries.eu/data/cxr.svg', 'Oceania')
-insert into COUNTRY values ('cocos islands', 'West Island', 'CC', 'https://restcountries.eu/data/cck.svg', 'Oceania')
-insert into COUNTRY values ('colombia', 'Bogotá', 'CO', 'https://restcountries.eu/data/col.svg', 'Americas')
-insert into COUNTRY values ('comoros', 'Moroni', 'KM', 'https://restcountries.eu/data/com.svg', 'Africa')
-insert into COUNTRY values ('congo', 'Brazzaville', 'CG', 'https://restcountries.eu/data/cog.svg', 'Africa')
-insert into COUNTRY values ('congo (democratic republic of the)', 'Kinshasa', 'CD', 'https://restcountries.eu/data/cod.svg', 'Africa')
-insert into COUNTRY values ('cook islands', 'Avarua', 'CK', 'https://restcountries.eu/data/cok.svg', 'Oceania')
-insert into COUNTRY values ('costa rica', 'San José', 'CR', 'https://restcountries.eu/data/cri.svg', 'Americas')
-insert into COUNTRY values ('croatia', 'Zagreb', 'HR', 'https://restcountries.eu/data/hrv.svg', 'Europe')
-insert into COUNTRY values ('cuba', 'Havana', 'CU', 'https://restcountries.eu/data/cub.svg', 'Americas')
-insert into COUNTRY values ('curaçao', 'Willemstad', 'CW', 'https://restcountries.eu/data/cuw.svg', 'Americas')
-insert into COUNTRY values ('cyprus', 'Nicosia', 'CY', 'https://restcountries.eu/data/cyp.svg', 'Europe')
-insert into COUNTRY values ('czech republic', 'Prague', 'CZ', 'https://restcountries.eu/data/cze.svg', 'Europe')
-insert into COUNTRY values ('denmark', 'Copenhagen', 'DK', 'https://restcountries.eu/data/dnk.svg', 'Europe')
-insert into COUNTRY values ('djibouti', 'Djibouti', 'DJ', 'https://restcountries.eu/data/dji.svg', 'Africa')
-insert into COUNTRY values ('dominica', 'Roseau', 'DM', 'https://restcountries.eu/data/dma.svg', 'Americas')
-insert into COUNTRY values ('dominican republic', 'Santo Domingo', 'DO', 'https://restcountries.eu/data/dom.svg', 'Americas')
-insert into COUNTRY values ('ecuador', 'Quito', 'EC', 'https://restcountries.eu/data/ecu.svg', 'Americas')
-insert into COUNTRY values ('egypt', 'Cairo', 'EG', 'https://restcountries.eu/data/egy.svg', 'Africa')
-insert into COUNTRY values ('el salvador', 'San Salvador', 'SV', 'https://restcountries.eu/data/slv.svg', 'Americas')
-insert into COUNTRY values ('equatorial guinea', 'Malabo', 'GQ', 'https://restcountries.eu/data/gnq.svg', 'Africa')
-insert into COUNTRY values ('eritrea', 'Asmara', 'ER', 'https://restcountries.eu/data/eri.svg', 'Africa')
-insert into COUNTRY values ('estonia', 'Tallinn', 'EE', 'https://restcountries.eu/data/est.svg', 'Europe')
-insert into COUNTRY values ('ethiopia', 'Addis Ababa', 'ET', 'https://restcountries.eu/data/eth.svg', 'Africa')
-insert into COUNTRY values ('falkland islands (malvinas)', 'Stanley', 'FK', 'https://restcountries.eu/data/flk.svg', 'Americas')
-insert into COUNTRY values ('faroe islands', 'Tórshavn', 'FO', 'https://restcountries.eu/data/fro.svg', 'Europe')
-insert into COUNTRY values ('fiji', 'Suva', 'FJ', 'https://restcountries.eu/data/fji.svg', 'Oceania')
-insert into COUNTRY values ('finland', 'Helsinki', 'FI', 'https://restcountries.eu/data/fin.svg', 'Europe')
-insert into COUNTRY values ('france', 'Paris', 'FR', 'https://restcountries.eu/data/fra.svg', 'Europe')
-insert into COUNTRY values ('french guiana', 'Cayenne', 'GF', 'https://restcountries.eu/data/guf.svg', 'Americas')
-insert into COUNTRY values ('french polynesia', 'Papeetē', 'PF', 'https://restcountries.eu/data/pyf.svg', 'Oceania')
-insert into COUNTRY values ('french southern territories', 'Port-aux-Français', 'TF', 'https://restcountries.eu/data/atf.svg', 'Africa')
-insert into COUNTRY values ('gabon', 'Libreville', 'GA', 'https://restcountries.eu/data/gab.svg', 'Africa')
-insert into COUNTRY values ('gambia', 'Banjul', 'GM', 'https://restcountries.eu/data/gmb.svg', 'Africa')
-insert into COUNTRY values ('georgia', 'Tbilisi', 'GE', 'https://restcountries.eu/data/geo.svg', 'Asia')
-insert into COUNTRY values ('germany', 'Berlin', 'DE', 'https://restcountries.eu/data/deu.svg', 'Europe')
-insert into COUNTRY values ('ghana', 'Accra', 'GH', 'https://restcountries.eu/data/gha.svg', 'Africa')
-insert into COUNTRY values ('gibraltar', 'Gibraltar', 'GI', 'https://restcountries.eu/data/gib.svg', 'Europe')
-insert into COUNTRY values ('greece', 'Athens', 'GR', 'https://restcountries.eu/data/grc.svg', 'Europe')
-insert into COUNTRY values ('greenland', 'Nuuk', 'GL', 'https://restcountries.eu/data/grl.svg', 'Americas')
-insert into COUNTRY values ('grenada', 'St. Georges', 'GD', 'https://restcountries.eu/data/grd.svg', 'Americas')
-insert into COUNTRY values ('guadeloupe', 'Basse-Terre', 'GP', 'https://restcountries.eu/data/glp.svg', 'Americas')
-insert into COUNTRY values ('guam', 'Hagåtña', 'GU', 'https://restcountries.eu/data/gum.svg', 'Oceania')
-insert into COUNTRY values ('guatemala', 'Guatemala City', 'GT', 'https://restcountries.eu/data/gtm.svg', 'Americas')
-insert into COUNTRY values ('guernsey', 'St. Peter Port', 'GG', 'https://restcountries.eu/data/ggy.svg', 'Europe')
-insert into COUNTRY values ('guinea', 'Conakry', 'GN', 'https://restcountries.eu/data/gin.svg', 'Africa')
-insert into COUNTRY values ('guinea-bissau', 'Bissau', 'GW', 'https://restcountries.eu/data/gnb.svg', 'Africa')
-insert into COUNTRY values ('guyana', 'Georgetown', 'GY', 'https://restcountries.eu/data/guy.svg', 'Americas')
-insert into COUNTRY values ('haiti', 'Port-au-Prince', 'HT', 'https://restcountries.eu/data/hti.svg', 'Americas')
-insert into COUNTRY values ('heard island and mcdonald islands', '', 'HM', 'https://restcountries.eu/data/hmd.svg', '')
-insert into COUNTRY values ('holy see', 'Rome', 'VA', 'https://restcountries.eu/data/vat.svg', 'Europe')
-insert into COUNTRY values ('honduras', 'Tegucigalpa', 'HN', 'https://restcountries.eu/data/hnd.svg', 'Americas')
-insert into COUNTRY values ('hong kong', 'City of Victoria', 'HK', 'https://restcountries.eu/data/hkg.svg', 'Asia')
-insert into COUNTRY values ('hungary', 'Budapest', 'HU', 'https://restcountries.eu/data/hun.svg', 'Europe')
-insert into COUNTRY values ('iceland', 'Reykjavík', 'IS', 'https://restcountries.eu/data/isl.svg', 'Europe')
-insert into COUNTRY values ('india', 'New Delhi', 'IN', 'https://restcountries.eu/data/ind.svg', 'Asia')
-insert into COUNTRY values ('indonesia', 'Jakarta', 'ID', 'https://restcountries.eu/data/idn.svg', 'Asia')
-insert into COUNTRY values ('côte divoire', 'Yamoussoukro', 'CI', 'https://restcountries.eu/data/civ.svg', 'Africa')
-insert into COUNTRY values ('iran', 'Tehran', 'IR', 'https://restcountries.eu/data/irn.svg', 'Asia')
-insert into COUNTRY values ('iraq', 'Baghdad', 'IQ', 'https://restcountries.eu/data/irq.svg', 'Asia')
-insert into COUNTRY values ('ireland', 'Dublin', 'IE', 'https://restcountries.eu/data/irl.svg', 'Europe')
-insert into COUNTRY values ('isle of man', 'Douglas', 'IM', 'https://restcountries.eu/data/imn.svg', 'Europe')
-insert into COUNTRY values ('israel', 'Jerusalem', 'IL', 'https://restcountries.eu/data/isr.svg', 'Asia')
-insert into COUNTRY values ('italy', 'Rome', 'IT', 'https://restcountries.eu/data/ita.svg', 'Europe')
-insert into COUNTRY values ('jamaica', 'Kingston','JM', 'https://restcountries.eu/data/jam.svg', 'Americas')
-insert into COUNTRY values ('japan', 'Tokyo', 'JP', 'https://restcountries.eu/data/jpn.svg', 'Asia')
-insert into COUNTRY values ('jersey', 'Saint Helier', 'JE', 'https://restcountries.eu/data/jey.svg', 'Europe')
-insert into COUNTRY values ('jordan', 'Amman', 'JO', 'https://restcountries.eu/data/jor.svg', 'Asia')
-insert into COUNTRY values ('kazakhstan', 'Astana', 'KZ', 'https://restcountries.eu/data/kaz.svg', 'Asia')
-insert into COUNTRY values ('kenya', 'Nairobi', 'KE', 'https://restcountries.eu/data/ken.svg', 'Africa')
-insert into COUNTRY values ('kiribati', 'South Tarawa', 'KI', 'https://restcountries.eu/data/kir.svg', 'Oceania')
-insert into COUNTRY values ('kuwait', 'Kuwait City', 'KW', 'https://restcountries.eu/data/kwt.svg', 'Asia')
-insert into COUNTRY values ('kyrgyzstan', 'Bishkek', 'KG', 'https://restcountries.eu/data/kgz.svg', 'Asia')
-insert into COUNTRY values ('lao peoples democratic republic', 'Vientiane', 'LA', 'https://restcountries.eu/data/lao.svg', 'Asia')
-insert into COUNTRY values ('latvia', 'Riga', 'LV', 'https://restcountries.eu/data/lva.svg', 'Europe')
-insert into COUNTRY values ('lebanon', 'Beirut', 'LB', 'https://restcountries.eu/data/lbn.svg', 'Asia')
-insert into COUNTRY values ('lesotho', 'Maseru', 'LS', 'https://restcountries.eu/data/lso.svg', 'Africa')
-insert into COUNTRY values ('liberia', 'Monrovia', 'LR', 'https://restcountries.eu/data/lbr.svg', 'Africa')
-insert into COUNTRY values ('libya', 'Tripoli', 'LY', 'https://restcountries.eu/data/lby.svg', 'Africa')
-insert into COUNTRY values ('liechtenstein', 'Vaduz', 'LI', 'https://restcountries.eu/data/lie.svg', 'Europe')
-insert into COUNTRY values ('lithuania', 'Vilnius', 'LT', 'https://restcountries.eu/data/ltu.svg', 'Europe')
-insert into COUNTRY values ('luxembourg', 'Luxembourg', 'LU', 'https://restcountries.eu/data/lux.svg', 'Europe')
-insert into COUNTRY values ('macao', '', 'MO', 'https://restcountries.eu/data/mac.svg', 'Asia')
-insert into COUNTRY values ('macedonia (the former yugoslav republic of)', 'Skopje', 'MK', 'https://restcountries.eu/data/mkd.svg', 'Europe')
-insert into COUNTRY values ('madagascar', 'Antananarivo', 'MG', 'https://restcountries.eu/data/mdg.svg', 'Africa')
-insert into COUNTRY values ('malawi', 'Lilongwe', 'MW', 'https://restcountries.eu/data/mwi.svg', 'Africa')
-insert into COUNTRY values ('malaysia', 'Kuala Lumpur', 'MY', 'https://restcountries.eu/data/mys.svg', 'Asia')
-insert into COUNTRY values ('maldives', 'Malé', 'MV', 'https://restcountries.eu/data/mdv.svg', 'Asia')
-insert into COUNTRY values ('mali', 'Bamako', 'ML', 'https://restcountries.eu/data/mli.svg', 'Africa')
-insert into COUNTRY values ('malta', 'Valletta', 'MT', 'https://restcountries.eu/data/mlt.svg', 'Europe')
-insert into COUNTRY values ('marshall islands', 'Majuro', 'MH', 'https://restcountries.eu/data/mhl.svg', 'Oceania')
-insert into COUNTRY values ('martinique', 'Fort-de-France', 'MQ', 'https://restcountries.eu/data/mtq.svg', 'Americas')
-insert into COUNTRY values ('mauritania', 'Nouakchott', 'MR', 'https://restcountries.eu/data/mrt.svg', 'Africa')
-insert into COUNTRY values ('mauritius', 'Port Louis', 'MU', 'https://restcountries.eu/data/mus.svg', 'Africa')
-insert into COUNTRY values ('mayotte', 'Mamoudzou', 'YT', 'https://restcountries.eu/data/myt.svg', 'Africa')
-insert into COUNTRY values ('mexico', 'Mexico City', 'MX', 'https://restcountries.eu/data/mex.svg', 'Americas')
-insert into COUNTRY values ('micronesia', 'Palikir', 'FM', 'https://restcountries.eu/data/fsm.svg', 'Oceania')
-insert into COUNTRY values ('moldova', 'Chișinău', 'MD', 'https://restcountries.eu/data/mda.svg', 'Europe')
-insert into COUNTRY values ('monaco', 'Monaco', 'MC', 'https://restcountries.eu/data/mco.svg', 'Europe')
-insert into COUNTRY values ('mongolia', 'Ulan Bator', 'MN', 'https://restcountries.eu/data/mng.svg', 'Asia')
-insert into COUNTRY values ('montenegro', 'Podgorica', 'ME', 'https://restcountries.eu/data/mne.svg', 'Europe')
-insert into COUNTRY values ('montserrat', 'Plymouth', 'MS', 'https://restcountries.eu/data/msr.svg', 'Americas')
-insert into COUNTRY values ('morocco', 'Rabat', 'MA', 'https://restcountries.eu/data/mar.svg', 'Africa')
-insert into COUNTRY values ('mozambique', 'Maputo', 'MZ', 'https://restcountries.eu/data/moz.svg', 'Africa')
-insert into COUNTRY values ('myanmar', 'Naypyidaw', 'MM', 'https://restcountries.eu/data/mmr.svg', 'Asia')
-insert into COUNTRY values ('namibia', 'Windhoek', 'NA', 'https://restcountries.eu/data/nam.svg', 'Africa')
-insert into COUNTRY values ('nauru', 'Yaren', 'NR', 'https://restcountries.eu/data/nru.svg', 'Oceania')
-insert into COUNTRY values ('nepal', 'Kathmandu', 'NP', 'https://restcountries.eu/data/npl.svg', 'Asia')
-insert into COUNTRY values ('netherlands', 'Amsterdam', 'NL', 'https://restcountries.eu/data/nld.svg', 'Europe')
-insert into COUNTRY values ('new caledonia', 'Nouméa', 'NC', 'https://restcountries.eu/data/ncl.svg', 'Oceania')
-insert into COUNTRY values ('new zealand', 'Wellington', 'NZ', 'https://restcountries.eu/data/nzl.svg', 'Oceania')
-insert into COUNTRY values ('nicaragua', 'Managua', 'NI', 'https://restcountries.eu/data/nic.svg', 'Americas')
-insert into COUNTRY values ('niger', 'Niamey', 'NE', 'https://restcountries.eu/data/ner.svg', 'Africa')
-insert into COUNTRY values ('nigeria', 'Abuja', 'NG', 'https://restcountries.eu/data/nga.svg', 'Africa')
-insert into COUNTRY values ('niue', 'Alofi', 'NU', 'https://restcountries.eu/data/niu.svg', 'Oceania')
-insert into COUNTRY values ('norfolk island', 'Kingston', 'NF', 'https://restcountries.eu/data/nfk.svg', 'Oceania')
-insert into COUNTRY values ('korea (democratic peoples republic of)', 'Pyongyang', 'KP', 'https://restcountries.eu/data/prk.svg', 'Asia')
-insert into COUNTRY values ('northern mariana islands', 'Saipan', 'MP', 'https://restcountries.eu/data/mnp.svg', 'Oceania')
-insert into COUNTRY values ('norway', 'Oslo', 'NO', 'https://restcountries.eu/data/nor.svg', 'Europe')
-insert into COUNTRY values ('oman', 'Muscat', 'OM', 'https://restcountries.eu/data/omn.svg', 'Asia')
-insert into COUNTRY values ('pakistan', 'Islamabad', 'PK', 'https://restcountries.eu/data/pak.svg', 'Asia')
-insert into COUNTRY values ('palau', 'Ngerulmud', 'PW', 'https://restcountries.eu/data/plw.svg', 'Oceania')
-insert into COUNTRY values ('palestine, state of', 'Ramallah', 'PS', 'https://restcountries.eu/data/pse.svg', 'Asia')
-insert into COUNTRY values ('panama', 'Panama City', 'PA', 'https://restcountries.eu/data/pan.svg', 'Americas')
-insert into COUNTRY values ('papua new guinea', 'Port Moresby', 'PG', 'https://restcountries.eu/data/png.svg', 'Oceania')
-insert into COUNTRY values ('paraguay', 'Asunción', 'PY', 'https://restcountries.eu/data/pry.svg', 'Americas')
-insert into COUNTRY values ('peru', 'Lima', 'PE', 'https://restcountries.eu/data/per.svg', 'Americas')
-insert into COUNTRY values ('philippines', 'Manila', 'PH', 'https://restcountries.eu/data/phl.svg', 'Asia')
-insert into COUNTRY values ('pitcairn', 'Adamstown', 'PN', 'https://restcountries.eu/data/pcn.svg', 'Oceania')
-insert into COUNTRY values ('poland', 'Warsaw', 'PL', 'https://restcountries.eu/data/pol.svg', 'Europe')
-insert into COUNTRY values ('portugal', 'Lisbon', 'PT', 'https://restcountries.eu/data/prt.svg', 'Europe')
-insert into COUNTRY values ('puerto rico', 'San Juan', 'PR', 'https://restcountries.eu/data/pri.svg', 'Americas')
-insert into COUNTRY values ('qatar', 'Doha', 'QA', 'https://restcountries.eu/data/qat.svg', 'Asia')
-insert into COUNTRY values ('republic of kosovo', 'Pristina', 'XK', 'https://restcountries.eu/data/kos.svg', 'Europe')
-insert into COUNTRY values ('réunion', 'Saint-Denis', 'RE', 'https://restcountries.eu/data/reu.svg', 'Africa')
-insert into COUNTRY values ('romania', 'Bucharest', 'RO', 'https://restcountries.eu/data/rou.svg', 'Europe')
-insert into COUNTRY values ('russian federation', 'Moscow', 'RU', 'https://restcountries.eu/data/rus.svg', 'Europe')
-insert into COUNTRY values ('rwanda', 'Kigali', 'RW', 'https://restcountries.eu/data/rwa.svg', 'Africa')
-insert into COUNTRY values ('saint barthélemy', 'Gustavia', 'BL', 'https://restcountries.eu/data/blm.svg', 'Americas')
-insert into COUNTRY values ('saint helena, ascension and tristan da cunha', 'Jamestown', 'SH', 'https://restcountries.eu/data/shn.svg', 'Africa')
-insert into COUNTRY values ('saint kitts and nevis', 'Basseterre', 'KN', 'https://restcountries.eu/data/kna.svg', 'Americas')
-insert into COUNTRY values ('saint lucia', 'Castries', 'LC', 'https://restcountries.eu/data/lca.svg', 'Americas')
-insert into COUNTRY values ('saint martin (french part)', 'Marigot', 'MF', 'https://restcountries.eu/data/maf.svg', 'Americas')
-insert into COUNTRY values ('saint pierre and miquelon', 'Saint-Pierre', 'PM', 'https://restcountries.eu/data/spm.svg', 'Americas')
-insert into COUNTRY values ('saint vincent and the grenadines', 'Kingstown', 'VC', 'https://restcountries.eu/data/vct.svg', 'Americas')
-insert into COUNTRY values ('samoa', 'Apia', 'WS', 'https://restcountries.eu/data/wsm.svg', 'Oceania')
-insert into COUNTRY values ('san marino', 'City of San Marino', 'SM', 'https://restcountries.eu/data/smr.svg', 'Europe')
-insert into COUNTRY values ('sao tome and principe', 'São Tomé', 'ST', 'https://restcountries.eu/data/stp.svg', 'Africa')
-insert into COUNTRY values ('saudi arabia', 'Riyadh', 'SA', 'https://restcountries.eu/data/sau.svg', 'Asia')
-insert into COUNTRY values ('senegal', 'Dakar', 'SN', 'https://restcountries.eu/data/sen.svg', 'Africa')
-insert into COUNTRY values ('serbia', 'Belgrade', 'RS', 'https://restcountries.eu/data/srb.svg', 'Europe')
-insert into COUNTRY values ('seychelles', 'Victoria', 'SC', 'https://restcountries.eu/data/syc.svg', 'Africa')
-insert into COUNTRY values ('sierra leone', 'Freetown', 'SL', 'https://restcountries.eu/data/sle.svg', 'Africa')
-insert into COUNTRY values ('singapore', 'Singapore', 'SG', 'https://restcountries.eu/data/sgp.svg', 'Asia')
-insert into COUNTRY values ('sint maarten (dutch part)', 'Philipsburg', 'SX', 'https://restcountries.eu/data/sxm.svg', 'Americas')
-insert into COUNTRY values ('slovakia', 'Bratislava', 'SK', 'https://restcountries.eu/data/svk.svg', 'Europe')
-insert into COUNTRY values ('slovenia', 'Ljubljana', 'SI', 'https://restcountries.eu/data/svn.svg', 'Europe')
-insert into COUNTRY values ('solomon islands', 'Honiara', 'SB', 'https://restcountries.eu/data/slb.svg', 'Oceania')
-insert into COUNTRY values ('somalia', 'Mogadishu', 'SO', 'https://restcountries.eu/data/som.svg', 'Africa')
-insert into COUNTRY values ('south africa', 'Pretoria', 'ZA', 'https://restcountries.eu/data/zaf.svg', 'Africa')
-insert into COUNTRY values ('south georgia and the south sandwich islands', 'King Edward Point', 'GS', 'https://restcountries.eu/data/sgs.svg', 'Americas')
-insert into COUNTRY values ('korea', 'Seoul', 'KR', 'https://restcountries.eu/data/kor.svg', 'Asia')
-insert into COUNTRY values ('south sudan', 'Juba', 'SS', 'https://restcountries.eu/data/ssd.svg', 'Africa')
-insert into COUNTRY values ('spain', 'Madrid', 'ES', 'https://restcountries.eu/data/esp.svg', 'Europe')
-insert into COUNTRY values ('sri lanka', 'Colombo', 'LK', 'https://restcountries.eu/data/lka.svg', 'Asia')
-insert into COUNTRY values ('sudan', 'Khartoum', 'SD', 'https://restcountries.eu/data/sdn.svg', 'Africa')
-insert into COUNTRY values ('suriname', 'Paramaribo', 'SR', 'https://restcountries.eu/data/sur.svg', 'Americas')
-insert into COUNTRY values ('svalbard and jan mayen', 'Longyearbyen', 'SJ', 'https://restcountries.eu/data/sjm.svg', 'Europe')
-insert into COUNTRY values ('swaziland', 'Lobamba', 'SZ', 'https://restcountries.eu/data/swz.svg', 'Africa')
-insert into COUNTRY values ('sweden', 'Stockholm', 'SE', 'https://restcountries.eu/data/swe.svg', 'Europe')
-insert into COUNTRY values ('switzerland', 'Bern', 'CH', 'https://restcountries.eu/data/che.svg', 'Europe')
-insert into COUNTRY values ('syrian arab republic', 'Damascus', 'SY', 'https://restcountries.eu/data/syr.svg', 'Asia')
-insert into COUNTRY values ('taiwan', 'Taipei', 'TW', 'https://restcountries.eu/data/twn.svg', 'Asia')
-insert into COUNTRY values ('tajikistan', 'Dushanbe', 'TJ', 'https://restcountries.eu/data/tjk.svg', 'Asia')
-insert into COUNTRY values ('tanzania, united republic of', 'Dodoma', 'TZ', 'https://restcountries.eu/data/tza.svg', 'Africa')
-insert into COUNTRY values ('thailand', 'Bangkok', 'TH', 'https://restcountries.eu/data/tha.svg', 'Asia')
-insert into COUNTRY values ('timor-leste', 'Dili', 'TL', 'https://restcountries.eu/data/tls.svg', 'Asia')
-insert into COUNTRY values ('togo', 'Lomé', 'TG', 'https://restcountries.eu/data/tgo.svg', 'Africa')
-insert into COUNTRY values ('tokelau', 'Fakaofo', 'TK', 'https://restcountries.eu/data/tkl.svg', 'Oceania')
-insert into COUNTRY values ('tonga', 'Nukualofa', 'TO', 'https://restcountries.eu/data/ton.svg', 'Oceania')
-insert into COUNTRY values ('trinidad and tobago', 'Port of Spain', 'TT', 'https://restcountries.eu/data/tto.svg', 'Americas')
-insert into COUNTRY values ('tunisia', 'Tunis', 'TN', 'https://restcountries.eu/data/tun.svg', 'Africa')
-insert into COUNTRY values ('turkey', 'Ankara', 'TR', 'https://restcountries.eu/data/tur.svg', 'Asia')
-insert into COUNTRY values ('turkmenistan', 'Ashgabat', 'TM', 'https://restcountries.eu/data/tkm.svg', 'Asia')
-insert into COUNTRY values ('turks and caicos islands', 'Cockburn Town', 'TC', 'https://restcountries.eu/data/tca.svg', 'Americas')
-insert into COUNTRY values ('tuvalu', 'Funafuti', 'TV', 'https://restcountries.eu/data/tuv.svg', 'Oceania')
-insert into COUNTRY values ('uganda', 'Kampala', 'UG', 'https://restcountries.eu/data/uga.svg', 'Africa')
-insert into COUNTRY values ('ukraine', 'Kiev', 'UA', 'https://restcountries.eu/data/ukr.svg', 'Europe')
-insert into COUNTRY values ('united arab emirates', 'Abu Dhabi', 'AE', 'https://restcountries.eu/data/are.svg', 'Asia')
-insert into COUNTRY values ('united kingdom of great britain and northern ireland', 'London', 'GB', 'https://restcountries.eu/data/gbr.svg', 'Europe')
-insert into COUNTRY values ('united states of america', 'Washington, D.C.', 'US', 'https://restcountries.eu/data/usa.svg', 'Americas')
-insert into COUNTRY values ('uruguay', 'Montevideo', 'UY', 'https://restcountries.eu/data/ury.svg', 'Americas')
-insert into COUNTRY values ('uzbekistan', 'Tashkent', 'UZ', 'https://restcountries.eu/data/uzb.svg', 'Asia')
-insert into COUNTRY values ('vanuatu', 'Port Vila', 'VU', 'https://restcountries.eu/data/vut.svg', 'Oceania')
-insert into COUNTRY values ('venezuela', 'Caracas', 'VE', 'https://restcountries.eu/data/ven.svg', 'Americas')
-insert into COUNTRY values ('viet nam', 'Hanoi', 'VN', 'https://restcountries.eu/data/vnm.svg', 'Asia')
-insert into COUNTRY values ('wallis and futuna', 'Mata-Utu', 'WF', 'https://restcountries.eu/data/wlf.svg', 'Oceania')
-insert into COUNTRY values ('western sahara', 'El Aaiún', 'EH', 'https://restcountries.eu/data/esh.svg', 'Africa')
-insert into COUNTRY values ('yemen', 'Sanaa', 'YE', 'https://restcountries.eu/data/yem.svg', 'Asia')
-insert into COUNTRY values ('zambia', 'Lusaka', 'ZM', 'https://restcountries.eu/data/zmb.svg', 'Africa')
-insert into COUNTRY values ('zimbabwe', 'Harare', 'ZW', 'https://restcountries.eu/data/zwe.svg', 'Africa')
+DROP TABLE IF EXISTS COUNTRY;
+
+CREATE TABLE COUNTRY (
+  name VARCHAR(250) NOT NULL,
+  capital VARCHAR(250) NOT NULL,
+  code VARCHAR(250) NOT NULL,
+  flag VARCHAR(250) NOT NULL,
+  region VARCHAR(250) NOT NULL
+);
+
+insert into COUNTRY values ('afghanistan', 'Kabul', 'AF', 'https://restcountries.eu/data/afg.svg', 'Asia');
+insert into COUNTRY values ('åland islands', 'Mariehamn', 'AX', 'https://restcountries.eu/data/ala.svg', 'Europe');
+insert into COUNTRY values ('albania', 'Tirana', 'AL', 'https://restcountries.eu/data/alb.svg', 'Europe');
+insert into COUNTRY values ('algeria', 'Algiers', 'DZ', 'https://restcountries.eu/data/dza.svg', 'Africa');
+insert into COUNTRY values ('american samoa', 'Pago Pago', 'AS', 'https://restcountries.eu/data/asm.svg', 'Oceania');
+insert into COUNTRY values ('andorra', 'Andorra la Vella', 'AD', 'https://restcountries.eu/data/and.svg', 'Europe');
+insert into COUNTRY values ('angola', 'Luanda', 'AO', 'https://restcountries.eu/data/ago.svg', 'Africa');
+insert into COUNTRY values ('anguilla', 'The Valley', 'AI', 'https://restcountries.eu/data/aia.svg', 'Americas');
+insert into COUNTRY values ('antarctica', '', 'AQ', 'https://restcountries.eu/data/ata.svg', 'Polar');
+insert into COUNTRY values ('antigua and barbuda', 'Saint Johns', 'AG', 'https://restcountries.eu/data/atg.svg', 'Americas');
+insert into COUNTRY values ('argentina', 'Buenos Aires', 'AR', 'https://restcountries.eu/data/arg.svg', 'Americas');
+insert into COUNTRY values ('armenia', 'Yerevan', 'AM', 'https://restcountries.eu/data/arm.svg', 'Asia');
+insert into COUNTRY values ('aruba', 'Oranjestad', 'AW', 'https://restcountries.eu/data/abw.svg', 'Americas');
+insert into COUNTRY values ('australia', 'Canberra', 'AU', 'https://restcountries.eu/data/aus.svg', 'Oceania');
+insert into COUNTRY values ('austria', 'Vienna', 'AT', 'https://restcountries.eu/data/aut.svg', 'Europe');
+insert into COUNTRY values ('azerbaijan', 'Baku', 'AZ', 'https://restcountries.eu/data/aze.svg', 'Asia');
+insert into COUNTRY values ('bahamas', 'Nassau', 'BS', 'https://restcountries.eu/data/bhs.svg', 'Americas');
+insert into COUNTRY values ('bahrain', 'Manama', 'BH', 'https://restcountries.eu/data/bhr.svg', 'Asia');
+insert into COUNTRY values ('bangladesh', 'Dhaka', 'BD', 'https://restcountries.eu/data/bgd.svg', 'Asia');
+insert into COUNTRY values ('barbados', 'Bridgetown', 'BB', 'https://restcountries.eu/data/brb.svg', 'Americas');
+insert into COUNTRY values ('belarus', 'Minsk', 'BY', 'https://restcountries.eu/data/blr.svg', 'Europe');
+insert into COUNTRY values ('belgium', 'Brussels', 'BE', 'https://restcountries.eu/data/bel.svg', 'Europe');
+insert into COUNTRY values ('belize', 'Belmopan', 'BZ', 'https://restcountries.eu/data/blz.svg', 'Americas');
+insert into COUNTRY values ('benin', 'Porto-Novo', 'BJ', 'https://restcountries.eu/data/ben.svg', 'Africa');
+insert into COUNTRY values ('bermuda', 'Hamilton', 'BM', 'https://restcountries.eu/data/bmu.svg', 'Americas');
+insert into COUNTRY values ('bhutan', 'Thimphu', 'BT', 'https://restcountries.eu/data/btn.svg', 'Asia');
+insert into COUNTRY values ('bolivia (plurinational state of);', 'Sucre', 'BO', 'https://restcountries.eu/data/bol.svg', 'Americas');
+insert into COUNTRY values ('bonaire, sint eustatius and saba', 'Kralendijk', 'BQ', 'https://restcountries.eu/data/bes.svg', 'Americas');
+insert into COUNTRY values ('bosnia and herzegovina', 'Sarajevo', 'BA', 'https://restcountries.eu/data/bih.svg', 'Europe');
+insert into COUNTRY values ('botswana', 'Gaborone', 'BW', 'https://restcountries.eu/data/bwa.svg', 'Africa');
+insert into COUNTRY values ('bouvet island', '', 'BV', 'https://restcountries.eu/data/bvt.svg', '');
+insert into COUNTRY values ('brazil', 'Brasília', 'BR', 'https://restcountries.eu/data/bra.svg', 'Americas');
+insert into COUNTRY values ('british indian ocean territory', 'Diego Garcia', 'IO', 'https://restcountries.eu/data/iot.svg', 'Africa');
+insert into COUNTRY values ('united states minor outlying islands', '', 'UM', 'https://restcountries.eu/data/umi.svg', 'Americas');
+insert into COUNTRY values ('virgin islands (british);', 'Road Town', 'VG', 'https://restcountries.eu/data/vgb.svg', 'Americas');
+insert into COUNTRY values ('virgin islands (u.s.);', 'Charlotte Amalie', 'VI', 'https://restcountries.eu/data/vir.svg', 'Americas');
+insert into COUNTRY values ('brunei darussalam', 'Bandar Seri Begawan', 'BN', 'https://restcountries.eu/data/brn.svg', 'Asia');
+insert into COUNTRY values ('bulgaria', 'Sofia', 'BG', 'https://restcountries.eu/data/bgr.svg', 'Europe');
+insert into COUNTRY values ('burkina faso', 'Ouagadougou', 'BF', 'https://restcountries.eu/data/bfa.svg', 'Africa');
+insert into COUNTRY values ('burundi', 'Bujumbura', 'BI', 'https://restcountries.eu/data/bdi.svg', 'Africa');
+insert into COUNTRY values ('cambodia', 'Phnom Penh', 'KH', 'https://restcountries.eu/data/khm.svg', 'Asia');
+insert into COUNTRY values ('cameroon', 'Yaoundé', 'CM', 'https://restcountries.eu/data/cmr.svg', 'Africa');
+insert into COUNTRY values ('canada', 'Ottawa', 'CA', 'https://restcountries.eu/data/can.svg', 'Americas');
+insert into COUNTRY values ('cabo verde', 'Praia', 'CV', 'https://restcountries.eu/data/cpv.svg', 'Africa');
+insert into COUNTRY values ('cayman islands', 'George Town', 'KY', 'https://restcountries.eu/data/cym.svg', 'Americas');
+insert into COUNTRY values ('central african republic', 'Bangui', 'CF', 'https://restcountries.eu/data/caf.svg', 'Africa');
+insert into COUNTRY values ('chad', 'NDjamena', 'TD', 'https://restcountries.eu/data/tcd.svg', 'Africa');
+insert into COUNTRY values ('chile', 'Santiago', 'CL', 'https://restcountries.eu/data/chl.svg', 'Americas');
+insert into COUNTRY values ('china', 'Beijing', 'CN', 'https://restcountries.eu/data/chn.svg', 'Asia');
+insert into COUNTRY values ('christmas island', 'Flying Fish Cove', 'CX', 'https://restcountries.eu/data/cxr.svg', 'Oceania');
+insert into COUNTRY values ('cocos islands', 'West Island', 'CC', 'https://restcountries.eu/data/cck.svg', 'Oceania');
+insert into COUNTRY values ('colombia', 'Bogotá', 'CO', 'https://restcountries.eu/data/col.svg', 'Americas');
+insert into COUNTRY values ('comoros', 'Moroni', 'KM', 'https://restcountries.eu/data/com.svg', 'Africa');
+insert into COUNTRY values ('congo', 'Brazzaville', 'CG', 'https://restcountries.eu/data/cog.svg', 'Africa');
+insert into COUNTRY values ('congo (democratic republic of the);', 'Kinshasa', 'CD', 'https://restcountries.eu/data/cod.svg', 'Africa');
+insert into COUNTRY values ('cook islands', 'Avarua', 'CK', 'https://restcountries.eu/data/cok.svg', 'Oceania');
+insert into COUNTRY values ('costa rica', 'San José', 'CR', 'https://restcountries.eu/data/cri.svg', 'Americas');
+insert into COUNTRY values ('croatia', 'Zagreb', 'HR', 'https://restcountries.eu/data/hrv.svg', 'Europe');
+insert into COUNTRY values ('cuba', 'Havana', 'CU', 'https://restcountries.eu/data/cub.svg', 'Americas');
+insert into COUNTRY values ('curaçao', 'Willemstad', 'CW', 'https://restcountries.eu/data/cuw.svg', 'Americas');
+insert into COUNTRY values ('cyprus', 'Nicosia', 'CY', 'https://restcountries.eu/data/cyp.svg', 'Europe');
+insert into COUNTRY values ('czech republic', 'Prague', 'CZ', 'https://restcountries.eu/data/cze.svg', 'Europe');
+insert into COUNTRY values ('denmark', 'Copenhagen', 'DK', 'https://restcountries.eu/data/dnk.svg', 'Europe');
+insert into COUNTRY values ('djibouti', 'Djibouti', 'DJ', 'https://restcountries.eu/data/dji.svg', 'Africa');
+insert into COUNTRY values ('dominica', 'Roseau', 'DM', 'https://restcountries.eu/data/dma.svg', 'Americas');
+insert into COUNTRY values ('dominican republic', 'Santo Domingo', 'DO', 'https://restcountries.eu/data/dom.svg', 'Americas');
+insert into COUNTRY values ('ecuador', 'Quito', 'EC', 'https://restcountries.eu/data/ecu.svg', 'Americas');
+insert into COUNTRY values ('egypt', 'Cairo', 'EG', 'https://restcountries.eu/data/egy.svg', 'Africa');
+insert into COUNTRY values ('el salvador', 'San Salvador', 'SV', 'https://restcountries.eu/data/slv.svg', 'Americas');
+insert into COUNTRY values ('equatorial guinea', 'Malabo', 'GQ', 'https://restcountries.eu/data/gnq.svg', 'Africa');
+insert into COUNTRY values ('eritrea', 'Asmara', 'ER', 'https://restcountries.eu/data/eri.svg', 'Africa');
+insert into COUNTRY values ('estonia', 'Tallinn', 'EE', 'https://restcountries.eu/data/est.svg', 'Europe');
+insert into COUNTRY values ('ethiopia', 'Addis Ababa', 'ET', 'https://restcountries.eu/data/eth.svg', 'Africa');
+insert into COUNTRY values ('falkland islands (malvinas);', 'Stanley', 'FK', 'https://restcountries.eu/data/flk.svg', 'Americas');
+insert into COUNTRY values ('faroe islands', 'Tórshavn', 'FO', 'https://restcountries.eu/data/fro.svg', 'Europe');
+insert into COUNTRY values ('fiji', 'Suva', 'FJ', 'https://restcountries.eu/data/fji.svg', 'Oceania');
+insert into COUNTRY values ('finland', 'Helsinki', 'FI', 'https://restcountries.eu/data/fin.svg', 'Europe');
+insert into COUNTRY values ('france', 'Paris', 'FR', 'https://restcountries.eu/data/fra.svg', 'Europe');
+insert into COUNTRY values ('french guiana', 'Cayenne', 'GF', 'https://restcountries.eu/data/guf.svg', 'Americas');
+insert into COUNTRY values ('french polynesia', 'Papeetē', 'PF', 'https://restcountries.eu/data/pyf.svg', 'Oceania');
+insert into COUNTRY values ('french southern territories', 'Port-aux-Français', 'TF', 'https://restcountries.eu/data/atf.svg', 'Africa');
+insert into COUNTRY values ('gabon', 'Libreville', 'GA', 'https://restcountries.eu/data/gab.svg', 'Africa');
+insert into COUNTRY values ('gambia', 'Banjul', 'GM', 'https://restcountries.eu/data/gmb.svg', 'Africa');
+insert into COUNTRY values ('georgia', 'Tbilisi', 'GE', 'https://restcountries.eu/data/geo.svg', 'Asia');
+insert into COUNTRY values ('germany', 'Berlin', 'DE', 'https://restcountries.eu/data/deu.svg', 'Europe');
+insert into COUNTRY values ('ghana', 'Accra', 'GH', 'https://restcountries.eu/data/gha.svg', 'Africa');
+insert into COUNTRY values ('gibraltar', 'Gibraltar', 'GI', 'https://restcountries.eu/data/gib.svg', 'Europe');
+insert into COUNTRY values ('greece', 'Athens', 'GR', 'https://restcountries.eu/data/grc.svg', 'Europe');
+insert into COUNTRY values ('greenland', 'Nuuk', 'GL', 'https://restcountries.eu/data/grl.svg', 'Americas');
+insert into COUNTRY values ('grenada', 'St. Georges', 'GD', 'https://restcountries.eu/data/grd.svg', 'Americas');
+insert into COUNTRY values ('guadeloupe', 'Basse-Terre', 'GP', 'https://restcountries.eu/data/glp.svg', 'Americas');
+insert into COUNTRY values ('guam', 'Hagåtña', 'GU', 'https://restcountries.eu/data/gum.svg', 'Oceania');
+insert into COUNTRY values ('guatemala', 'Guatemala City', 'GT', 'https://restcountries.eu/data/gtm.svg', 'Americas');
+insert into COUNTRY values ('guernsey', 'St. Peter Port', 'GG', 'https://restcountries.eu/data/ggy.svg', 'Europe');
+insert into COUNTRY values ('guinea', 'Conakry', 'GN', 'https://restcountries.eu/data/gin.svg', 'Africa');
+insert into COUNTRY values ('guinea-bissau', 'Bissau', 'GW', 'https://restcountries.eu/data/gnb.svg', 'Africa');
+insert into COUNTRY values ('guyana', 'Georgetown', 'GY', 'https://restcountries.eu/data/guy.svg', 'Americas');
+insert into COUNTRY values ('haiti', 'Port-au-Prince', 'HT', 'https://restcountries.eu/data/hti.svg', 'Americas');
+insert into COUNTRY values ('heard island and mcdonald islands', '', 'HM', 'https://restcountries.eu/data/hmd.svg', '');
+insert into COUNTRY values ('holy see', 'Rome', 'VA', 'https://restcountries.eu/data/vat.svg', 'Europe');
+insert into COUNTRY values ('honduras', 'Tegucigalpa', 'HN', 'https://restcountries.eu/data/hnd.svg', 'Americas');
+insert into COUNTRY values ('hong kong', 'City of Victoria', 'HK', 'https://restcountries.eu/data/hkg.svg', 'Asia');
+insert into COUNTRY values ('hungary', 'Budapest', 'HU', 'https://restcountries.eu/data/hun.svg', 'Europe');
+insert into COUNTRY values ('iceland', 'Reykjavík', 'IS', 'https://restcountries.eu/data/isl.svg', 'Europe');
+insert into COUNTRY values ('india', 'New Delhi', 'IN', 'https://restcountries.eu/data/ind.svg', 'Asia');
+insert into COUNTRY values ('indonesia', 'Jakarta', 'ID', 'https://restcountries.eu/data/idn.svg', 'Asia');
+insert into COUNTRY values ('côte divoire', 'Yamoussoukro', 'CI', 'https://restcountries.eu/data/civ.svg', 'Africa');
+insert into COUNTRY values ('iran', 'Tehran', 'IR', 'https://restcountries.eu/data/irn.svg', 'Asia');
+insert into COUNTRY values ('iraq', 'Baghdad', 'IQ', 'https://restcountries.eu/data/irq.svg', 'Asia');
+insert into COUNTRY values ('ireland', 'Dublin', 'IE', 'https://restcountries.eu/data/irl.svg', 'Europe');
+insert into COUNTRY values ('isle of man', 'Douglas', 'IM', 'https://restcountries.eu/data/imn.svg', 'Europe');
+insert into COUNTRY values ('israel', 'Jerusalem', 'IL', 'https://restcountries.eu/data/isr.svg', 'Asia');
+insert into COUNTRY values ('italy', 'Rome', 'IT', 'https://restcountries.eu/data/ita.svg', 'Europe');
+insert into COUNTRY values ('jamaica', 'Kingston','JM', 'https://restcountries.eu/data/jam.svg', 'Americas');
+insert into COUNTRY values ('japan', 'Tokyo', 'JP', 'https://restcountries.eu/data/jpn.svg', 'Asia');
+insert into COUNTRY values ('jersey', 'Saint Helier', 'JE', 'https://restcountries.eu/data/jey.svg', 'Europe');
+insert into COUNTRY values ('jordan', 'Amman', 'JO', 'https://restcountries.eu/data/jor.svg', 'Asia');
+insert into COUNTRY values ('kazakhstan', 'Astana', 'KZ', 'https://restcountries.eu/data/kaz.svg', 'Asia');
+insert into COUNTRY values ('kenya', 'Nairobi', 'KE', 'https://restcountries.eu/data/ken.svg', 'Africa');
+insert into COUNTRY values ('kiribati', 'South Tarawa', 'KI', 'https://restcountries.eu/data/kir.svg', 'Oceania');
+insert into COUNTRY values ('kuwait', 'Kuwait City', 'KW', 'https://restcountries.eu/data/kwt.svg', 'Asia');
+insert into COUNTRY values ('kyrgyzstan', 'Bishkek', 'KG', 'https://restcountries.eu/data/kgz.svg', 'Asia');
+insert into COUNTRY values ('lao peoples democratic republic', 'Vientiane', 'LA', 'https://restcountries.eu/data/lao.svg', 'Asia');
+insert into COUNTRY values ('latvia', 'Riga', 'LV', 'https://restcountries.eu/data/lva.svg', 'Europe');
+insert into COUNTRY values ('lebanon', 'Beirut', 'LB', 'https://restcountries.eu/data/lbn.svg', 'Asia');
+insert into COUNTRY values ('lesotho', 'Maseru', 'LS', 'https://restcountries.eu/data/lso.svg', 'Africa');
+insert into COUNTRY values ('liberia', 'Monrovia', 'LR', 'https://restcountries.eu/data/lbr.svg', 'Africa');
+insert into COUNTRY values ('libya', 'Tripoli', 'LY', 'https://restcountries.eu/data/lby.svg', 'Africa');
+insert into COUNTRY values ('liechtenstein', 'Vaduz', 'LI', 'https://restcountries.eu/data/lie.svg', 'Europe');
+insert into COUNTRY values ('lithuania', 'Vilnius', 'LT', 'https://restcountries.eu/data/ltu.svg', 'Europe');
+insert into COUNTRY values ('luxembourg', 'Luxembourg', 'LU', 'https://restcountries.eu/data/lux.svg', 'Europe');
+insert into COUNTRY values ('macao', '', 'MO', 'https://restcountries.eu/data/mac.svg', 'Asia');
+insert into COUNTRY values ('macedonia (the former yugoslav republic of);', 'Skopje', 'MK', 'https://restcountries.eu/data/mkd.svg', 'Europe');
+insert into COUNTRY values ('madagascar', 'Antananarivo', 'MG', 'https://restcountries.eu/data/mdg.svg', 'Africa');
+insert into COUNTRY values ('malawi', 'Lilongwe', 'MW', 'https://restcountries.eu/data/mwi.svg', 'Africa');
+insert into COUNTRY values ('malaysia', 'Kuala Lumpur', 'MY', 'https://restcountries.eu/data/mys.svg', 'Asia');
+insert into COUNTRY values ('maldives', 'Malé', 'MV', 'https://restcountries.eu/data/mdv.svg', 'Asia');
+insert into COUNTRY values ('mali', 'Bamako', 'ML', 'https://restcountries.eu/data/mli.svg', 'Africa');
+insert into COUNTRY values ('malta', 'Valletta', 'MT', 'https://restcountries.eu/data/mlt.svg', 'Europe');
+insert into COUNTRY values ('marshall islands', 'Majuro', 'MH', 'https://restcountries.eu/data/mhl.svg', 'Oceania');
+insert into COUNTRY values ('martinique', 'Fort-de-France', 'MQ', 'https://restcountries.eu/data/mtq.svg', 'Americas');
+insert into COUNTRY values ('mauritania', 'Nouakchott', 'MR', 'https://restcountries.eu/data/mrt.svg', 'Africa');
+insert into COUNTRY values ('mauritius', 'Port Louis', 'MU', 'https://restcountries.eu/data/mus.svg', 'Africa');
+insert into COUNTRY values ('mayotte', 'Mamoudzou', 'YT', 'https://restcountries.eu/data/myt.svg', 'Africa');
+insert into COUNTRY values ('mexico', 'Mexico City', 'MX', 'https://restcountries.eu/data/mex.svg', 'Americas');
+insert into COUNTRY values ('micronesia', 'Palikir', 'FM', 'https://restcountries.eu/data/fsm.svg', 'Oceania');
+insert into COUNTRY values ('moldova', 'Chișinău', 'MD', 'https://restcountries.eu/data/mda.svg', 'Europe');
+insert into COUNTRY values ('monaco', 'Monaco', 'MC', 'https://restcountries.eu/data/mco.svg', 'Europe');
+insert into COUNTRY values ('mongolia', 'Ulan Bator', 'MN', 'https://restcountries.eu/data/mng.svg', 'Asia');
+insert into COUNTRY values ('montenegro', 'Podgorica', 'ME', 'https://restcountries.eu/data/mne.svg', 'Europe');
+insert into COUNTRY values ('montserrat', 'Plymouth', 'MS', 'https://restcountries.eu/data/msr.svg', 'Americas');
+insert into COUNTRY values ('morocco', 'Rabat', 'MA', 'https://restcountries.eu/data/mar.svg', 'Africa');
+insert into COUNTRY values ('mozambique', 'Maputo', 'MZ', 'https://restcountries.eu/data/moz.svg', 'Africa');
+insert into COUNTRY values ('myanmar', 'Naypyidaw', 'MM', 'https://restcountries.eu/data/mmr.svg', 'Asia');
+insert into COUNTRY values ('namibia', 'Windhoek', 'NA', 'https://restcountries.eu/data/nam.svg', 'Africa');
+insert into COUNTRY values ('nauru', 'Yaren', 'NR', 'https://restcountries.eu/data/nru.svg', 'Oceania');
+insert into COUNTRY values ('nepal', 'Kathmandu', 'NP', 'https://restcountries.eu/data/npl.svg', 'Asia');
+insert into COUNTRY values ('netherlands', 'Amsterdam', 'NL', 'https://restcountries.eu/data/nld.svg', 'Europe');
+insert into COUNTRY values ('new caledonia', 'Nouméa', 'NC', 'https://restcountries.eu/data/ncl.svg', 'Oceania');
+insert into COUNTRY values ('new zealand', 'Wellington', 'NZ', 'https://restcountries.eu/data/nzl.svg', 'Oceania');
+insert into COUNTRY values ('nicaragua', 'Managua', 'NI', 'https://restcountries.eu/data/nic.svg', 'Americas');
+insert into COUNTRY values ('niger', 'Niamey', 'NE', 'https://restcountries.eu/data/ner.svg', 'Africa');
+insert into COUNTRY values ('nigeria', 'Abuja', 'NG', 'https://restcountries.eu/data/nga.svg', 'Africa');
+insert into COUNTRY values ('niue', 'Alofi', 'NU', 'https://restcountries.eu/data/niu.svg', 'Oceania');
+insert into COUNTRY values ('norfolk island', 'Kingston', 'NF', 'https://restcountries.eu/data/nfk.svg', 'Oceania');
+insert into COUNTRY values ('korea (democratic peoples republic of);', 'Pyongyang', 'KP', 'https://restcountries.eu/data/prk.svg', 'Asia');
+insert into COUNTRY values ('northern mariana islands', 'Saipan', 'MP', 'https://restcountries.eu/data/mnp.svg', 'Oceania');
+insert into COUNTRY values ('norway', 'Oslo', 'NO', 'https://restcountries.eu/data/nor.svg', 'Europe');
+insert into COUNTRY values ('oman', 'Muscat', 'OM', 'https://restcountries.eu/data/omn.svg', 'Asia');
+insert into COUNTRY values ('pakistan', 'Islamabad', 'PK', 'https://restcountries.eu/data/pak.svg', 'Asia');
+insert into COUNTRY values ('palau', 'Ngerulmud', 'PW', 'https://restcountries.eu/data/plw.svg', 'Oceania');
+insert into COUNTRY values ('palestine, state of', 'Ramallah', 'PS', 'https://restcountries.eu/data/pse.svg', 'Asia');
+insert into COUNTRY values ('panama', 'Panama City', 'PA', 'https://restcountries.eu/data/pan.svg', 'Americas');
+insert into COUNTRY values ('papua new guinea', 'Port Moresby', 'PG', 'https://restcountries.eu/data/png.svg', 'Oceania');
+insert into COUNTRY values ('paraguay', 'Asunción', 'PY', 'https://restcountries.eu/data/pry.svg', 'Americas');
+insert into COUNTRY values ('peru', 'Lima', 'PE', 'https://restcountries.eu/data/per.svg', 'Americas');
+insert into COUNTRY values ('philippines', 'Manila', 'PH', 'https://restcountries.eu/data/phl.svg', 'Asia');
+insert into COUNTRY values ('pitcairn', 'Adamstown', 'PN', 'https://restcountries.eu/data/pcn.svg', 'Oceania');
+insert into COUNTRY values ('poland', 'Warsaw', 'PL', 'https://restcountries.eu/data/pol.svg', 'Europe');
+insert into COUNTRY values ('portugal', 'Lisbon', 'PT', 'https://restcountries.eu/data/prt.svg', 'Europe');
+insert into COUNTRY values ('puerto rico', 'San Juan', 'PR', 'https://restcountries.eu/data/pri.svg', 'Americas');
+insert into COUNTRY values ('qatar', 'Doha', 'QA', 'https://restcountries.eu/data/qat.svg', 'Asia');
+insert into COUNTRY values ('republic of kosovo', 'Pristina', 'XK', 'https://restcountries.eu/data/kos.svg', 'Europe');
+insert into COUNTRY values ('réunion', 'Saint-Denis', 'RE', 'https://restcountries.eu/data/reu.svg', 'Africa');
+insert into COUNTRY values ('romania', 'Bucharest', 'RO', 'https://restcountries.eu/data/rou.svg', 'Europe');
+insert into COUNTRY values ('russian federation', 'Moscow', 'RU', 'https://restcountries.eu/data/rus.svg', 'Europe');
+insert into COUNTRY values ('rwanda', 'Kigali', 'RW', 'https://restcountries.eu/data/rwa.svg', 'Africa');
+insert into COUNTRY values ('saint barthélemy', 'Gustavia', 'BL', 'https://restcountries.eu/data/blm.svg', 'Americas');
+insert into COUNTRY values ('saint helena, ascension and tristan da cunha', 'Jamestown', 'SH', 'https://restcountries.eu/data/shn.svg', 'Africa');
+insert into COUNTRY values ('saint kitts and nevis', 'Basseterre', 'KN', 'https://restcountries.eu/data/kna.svg', 'Americas');
+insert into COUNTRY values ('saint lucia', 'Castries', 'LC', 'https://restcountries.eu/data/lca.svg', 'Americas');
+insert into COUNTRY values ('saint martin (french part);', 'Marigot', 'MF', 'https://restcountries.eu/data/maf.svg', 'Americas');
+insert into COUNTRY values ('saint pierre and miquelon', 'Saint-Pierre', 'PM', 'https://restcountries.eu/data/spm.svg', 'Americas');
+insert into COUNTRY values ('saint vincent and the grenadines', 'Kingstown', 'VC', 'https://restcountries.eu/data/vct.svg', 'Americas');
+insert into COUNTRY values ('samoa', 'Apia', 'WS', 'https://restcountries.eu/data/wsm.svg', 'Oceania');
+insert into COUNTRY values ('san marino', 'City of San Marino', 'SM', 'https://restcountries.eu/data/smr.svg', 'Europe');
+insert into COUNTRY values ('sao tome and principe', 'São Tomé', 'ST', 'https://restcountries.eu/data/stp.svg', 'Africa');
+insert into COUNTRY values ('saudi arabia', 'Riyadh', 'SA', 'https://restcountries.eu/data/sau.svg', 'Asia');
+insert into COUNTRY values ('senegal', 'Dakar', 'SN', 'https://restcountries.eu/data/sen.svg', 'Africa');
+insert into COUNTRY values ('serbia', 'Belgrade', 'RS', 'https://restcountries.eu/data/srb.svg', 'Europe');
+insert into COUNTRY values ('seychelles', 'Victoria', 'SC', 'https://restcountries.eu/data/syc.svg', 'Africa');
+insert into COUNTRY values ('sierra leone', 'Freetown', 'SL', 'https://restcountries.eu/data/sle.svg', 'Africa');
+insert into COUNTRY values ('singapore', 'Singapore', 'SG', 'https://restcountries.eu/data/sgp.svg', 'Asia');
+insert into COUNTRY values ('sint maarten (dutch part);', 'Philipsburg', 'SX', 'https://restcountries.eu/data/sxm.svg', 'Americas');
+insert into COUNTRY values ('slovakia', 'Bratislava', 'SK', 'https://restcountries.eu/data/svk.svg', 'Europe');
+insert into COUNTRY values ('slovenia', 'Ljubljana', 'SI', 'https://restcountries.eu/data/svn.svg', 'Europe');
+insert into COUNTRY values ('solomon islands', 'Honiara', 'SB', 'https://restcountries.eu/data/slb.svg', 'Oceania');
+insert into COUNTRY values ('somalia', 'Mogadishu', 'SO', 'https://restcountries.eu/data/som.svg', 'Africa');
+insert into COUNTRY values ('south africa', 'Pretoria', 'ZA', 'https://restcountries.eu/data/zaf.svg', 'Africa');
+insert into COUNTRY values ('south georgia and the south sandwich islands', 'King Edward Point', 'GS', 'https://restcountries.eu/data/sgs.svg', 'Americas');
+insert into COUNTRY values ('korea', 'Seoul', 'KR', 'https://restcountries.eu/data/kor.svg', 'Asia');
+insert into COUNTRY values ('south sudan', 'Juba', 'SS', 'https://restcountries.eu/data/ssd.svg', 'Africa');
+insert into COUNTRY values ('spain', 'Madrid', 'ES', 'https://restcountries.eu/data/esp.svg', 'Europe');
+insert into COUNTRY values ('sri lanka', 'Colombo', 'LK', 'https://restcountries.eu/data/lka.svg', 'Asia');
+insert into COUNTRY values ('sudan', 'Khartoum', 'SD', 'https://restcountries.eu/data/sdn.svg', 'Africa');
+insert into COUNTRY values ('suriname', 'Paramaribo', 'SR', 'https://restcountries.eu/data/sur.svg', 'Americas');
+insert into COUNTRY values ('svalbard and jan mayen', 'Longyearbyen', 'SJ', 'https://restcountries.eu/data/sjm.svg', 'Europe');
+insert into COUNTRY values ('swaziland', 'Lobamba', 'SZ', 'https://restcountries.eu/data/swz.svg', 'Africa');
+insert into COUNTRY values ('sweden', 'Stockholm', 'SE', 'https://restcountries.eu/data/swe.svg', 'Europe');
+insert into COUNTRY values ('switzerland', 'Bern', 'CH', 'https://restcountries.eu/data/che.svg', 'Europe');
+insert into COUNTRY values ('syrian arab republic', 'Damascus', 'SY', 'https://restcountries.eu/data/syr.svg', 'Asia');
+insert into COUNTRY values ('taiwan', 'Taipei', 'TW', 'https://restcountries.eu/data/twn.svg', 'Asia');
+insert into COUNTRY values ('tajikistan', 'Dushanbe', 'TJ', 'https://restcountries.eu/data/tjk.svg', 'Asia');
+insert into COUNTRY values ('tanzania, united republic of', 'Dodoma', 'TZ', 'https://restcountries.eu/data/tza.svg', 'Africa');
+insert into COUNTRY values ('thailand', 'Bangkok', 'TH', 'https://restcountries.eu/data/tha.svg', 'Asia');
+insert into COUNTRY values ('timor-leste', 'Dili', 'TL', 'https://restcountries.eu/data/tls.svg', 'Asia');
+insert into COUNTRY values ('togo', 'Lomé', 'TG', 'https://restcountries.eu/data/tgo.svg', 'Africa');
+insert into COUNTRY values ('tokelau', 'Fakaofo', 'TK', 'https://restcountries.eu/data/tkl.svg', 'Oceania');
+insert into COUNTRY values ('tonga', 'Nukualofa', 'TO', 'https://restcountries.eu/data/ton.svg', 'Oceania');
+insert into COUNTRY values ('trinidad and tobago', 'Port of Spain', 'TT', 'https://restcountries.eu/data/tto.svg', 'Americas');
+insert into COUNTRY values ('tunisia', 'Tunis', 'TN', 'https://restcountries.eu/data/tun.svg', 'Africa');
+insert into COUNTRY values ('turkey', 'Ankara', 'TR', 'https://restcountries.eu/data/tur.svg', 'Asia');
+insert into COUNTRY values ('turkmenistan', 'Ashgabat', 'TM', 'https://restcountries.eu/data/tkm.svg', 'Asia');
+insert into COUNTRY values ('turks and caicos islands', 'Cockburn Town', 'TC', 'https://restcountries.eu/data/tca.svg', 'Americas');
+insert into COUNTRY values ('tuvalu', 'Funafuti', 'TV', 'https://restcountries.eu/data/tuv.svg', 'Oceania');
+insert into COUNTRY values ('uganda', 'Kampala', 'UG', 'https://restcountries.eu/data/uga.svg', 'Africa');
+insert into COUNTRY values ('ukraine', 'Kiev', 'UA', 'https://restcountries.eu/data/ukr.svg', 'Europe');
+insert into COUNTRY values ('united arab emirates', 'Abu Dhabi', 'AE', 'https://restcountries.eu/data/are.svg', 'Asia');
+insert into COUNTRY values ('united kingdom of great britain and northern ireland', 'London', 'GB', 'https://restcountries.eu/data/gbr.svg', 'Europe');
+insert into COUNTRY values ('united states of america', 'Washington, D.C.', 'US', 'https://restcountries.eu/data/usa.svg', 'Americas');
+insert into COUNTRY values ('uruguay', 'Montevideo', 'UY', 'https://restcountries.eu/data/ury.svg', 'Americas');
+insert into COUNTRY values ('uzbekistan', 'Tashkent', 'UZ', 'https://restcountries.eu/data/uzb.svg', 'Asia');
+insert into COUNTRY values ('vanuatu', 'Port Vila', 'VU', 'https://restcountries.eu/data/vut.svg', 'Oceania');
+insert into COUNTRY values ('venezuela', 'Caracas', 'VE', 'https://restcountries.eu/data/ven.svg', 'Americas');
+insert into COUNTRY values ('viet nam', 'Hanoi', 'VN', 'https://restcountries.eu/data/vnm.svg', 'Asia');
+insert into COUNTRY values ('wallis and futuna', 'Mata-Utu', 'WF', 'https://restcountries.eu/data/wlf.svg', 'Oceania');
+insert into COUNTRY values ('western sahara', 'El Aaiún', 'EH', 'https://restcountries.eu/data/esh.svg', 'Africa');
+insert into COUNTRY values ('yemen', 'Sanaa', 'YE', 'https://restcountries.eu/data/yem.svg', 'Asia');
+insert into COUNTRY values ('zambia', 'Lusaka', 'ZM', 'https://restcountries.eu/data/zmb.svg', 'Africa');
+insert into COUNTRY values ('zimbabwe', 'Harare', 'ZW', 'https://restcountries.eu/data/zwe.svg', 'Africa');
