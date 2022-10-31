@@ -1,17 +1,15 @@
 package com.harshchourasiya.countryapi.Controller;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.harshchourasiya.countryapi.CountryRepo;
 import com.harshchourasiya.countryapi.Model.Country;
-
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
+
+import java.util.List;
 
 
 @Controller
@@ -20,43 +18,32 @@ public class HomeController {
 
     private final CountryRepo repo;
 
-    // For Home
     @RequestMapping("/")
-    public String home(){
+    public String home() {
         return "home.jsp";
     }
 
-    // Here are For API
-
-    // for All Countries details
-    @RequestMapping("/all")
+    @GetMapping("/all")
     @ResponseBody
-    public List<Country> all(){
-        ArrayList<Country> countries =  (ArrayList<Country>)repo.findAll();
-        return countries;
+    public List<Country> getAllCountries() {
+        return (List<Country>) repo.findAll();
     }
 
-    // To get detail by country name
-    @RequestMapping("/country/{name}")
+    @GetMapping("/country/{name}")
     @ResponseBody
-    public List<Country> country(@PathVariable String name){
-        ArrayList<Country> countries =  (ArrayList<Country>)repo.findByName(name.toLowerCase());
-        return countries;
+    public List<Country> getCountryByName(@PathVariable String name) {
+        return repo.findByName(name.toLowerCase());
     }
 
-    // to get detail by country code
-    @RequestMapping("/code/{code}")
+    @GetMapping("/code/{code}")
     @ResponseBody
-    public List<Country> code(@PathVariable String code){
-        ArrayList<Country> countries =  (ArrayList<Country>)repo.findByCode(code.toUpperCase());
-        return countries;
+    public List<Country> getCountryByCode(@PathVariable String code) {
+        return repo.findByCode(code.toUpperCase());
     }
 
-    // to search by country name
-    @RequestMapping("/search/{name}")
+    @GetMapping("/search/{name}")
     @ResponseBody
-    public List<Country> search(@PathVariable String name){
-        ArrayList<Country> countries =  (ArrayList<Country>)repo.searchByCountry(name.toLowerCase());
-        return countries;
+    public List<Country> searchCountryByName(@PathVariable String name) {
+        return repo.searchByCountry(name.toLowerCase());
     }
 }
