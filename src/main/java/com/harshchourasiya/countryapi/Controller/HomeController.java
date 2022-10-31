@@ -6,6 +6,7 @@ import java.util.List;
 import com.harshchourasiya.countryapi.CountryRepo;
 import com.harshchourasiya.countryapi.Model.Country;
 
+import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -14,10 +15,10 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 
 @Controller
+@RequiredArgsConstructor
 public class HomeController {
 
-    @Autowired
-    CountryRepo repo; 
+    private final CountryRepo repo;
 
     // For Home
     @RequestMapping("/")
